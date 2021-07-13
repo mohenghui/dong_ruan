@@ -1,0 +1,13 @@
+/* 全局样式表 ,el元素都有一个同名class，可以直接设置*/
+*{
+	/* 铺满 */
+    margin: 0;       /*清空默认8px，对齐*/
+    padding: 0; 
+}
+
+.el-header{
+  margin-bottom: 15px;
+}
+.el-footer{
+  margin-top: 15px;
+}
